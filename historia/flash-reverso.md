@@ -1,5 +1,0 @@
-
-# Flash
----
-*Flash*
-**Flash**
